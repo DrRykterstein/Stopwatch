@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body, html {
+  text-align: center;
+}
+
+#stopwatch {
+  margin: 10rem 0 2rem 0;
+  font-size: 60px;
+}
