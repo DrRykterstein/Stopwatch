@@ -15,6 +15,7 @@ function setItem(value) {
 let interval = null;
 let wasClicked = false;
 let value = stopwatch.innerHTML;
+
 const setStopwatch = () => {
   value++;
   stopwatch.innerHTML = value;
